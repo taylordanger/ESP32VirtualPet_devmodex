@@ -24,8 +24,8 @@
 #define TIMEZONE "PST8PDT,M3.2.0,M11.1.0"
 #define GMT_OFFSET_SEC (-8 * 3600) 
 #define DAYLIGHT_OFFSET_SEC 3600 
-#define WIFI_SSID "Ziply-4D90"
-#define WIFI_PASSWORD "wy95fcsnywdh"
+#define WIFI_SSID 
+#define WIFI_PASSWORD 
 #define SCREEN_WIDTH    200
 #define SCREEN_HEIGHT   200
 #define SCORE_HEIGHT    24
